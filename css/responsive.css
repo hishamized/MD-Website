@@ -28,6 +28,7 @@
         margin-right: 3%;
         margin-left: 3%;
         text-align: left;
+        margin-bottom: 1%;
     }
     .infobox > h2 {
         display: none;
@@ -52,6 +53,7 @@
         margin-right: 3%;
         margin-left: 3%;
         text-align: left;
+        margin-bottom: 1%;
     }
     .ws-box > img {
         width: 40%;
@@ -73,6 +75,7 @@
         margin-right: 3%;
         margin-left: 3%;
         text-align: left;
+        margin-bottom: 1%;
     }
     .team-box > img {
         width: 30%;
